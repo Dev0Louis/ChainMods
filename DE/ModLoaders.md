@@ -4,6 +4,7 @@ Diese Mods werden **stark** empfohlen für den ChainSMP.  <br/>Falls es Probleme
 ### Fabric
 Dieser Modloader sollte genutzt werden.<br/>
 Ladet denn Installer [hier](https://fabricmc.net/use/installer/) herunter, und führt ihn aus **!**<br/>
+Überprüft ob die Version 1.19 ist, falls es das nicht ist wählt sie aus. <br/>
 
 **Falls du Fabric heruntergeladen hast, klicke [hier](https://github.com/D1p4k/ChainSMPGuide/blob/main/DE/Fabric/ChainSMPMods.md)**
 
