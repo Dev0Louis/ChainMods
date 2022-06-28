@@ -1,5 +1,5 @@
 # ChainSMP Mods
-Hier werden die Mods für ChainSMP aufgelistet!</br>
+This are the Mods for ChainSMP!</br>
 
 ### [Fabric API](https://modrinth.com/mod/fabric-api/version/0.56.3%2B1.19)
 
