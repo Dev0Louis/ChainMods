@@ -5,7 +5,7 @@ If there are problems with the guide, [contact us](https://discord.gg/7V6Dpt5cDq
 ### Fabric
 This Modloader should be used.<br/>
 Download the installer [here](https://fabricmc.net/use/installer/) and open it **!**<br/>
-Check if the version is 1.19, if not, select it. <br/>
+Check if the version is 1.19.1, if not, select it. <br/>
 
 **If you downloaded Fabric click [here](./Mods/Required.md)**
 
