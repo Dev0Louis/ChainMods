@@ -1,7 +1,7 @@
 # ChainSMP Mods
 This are the Mods for ChainSMP!</br>
 
-### [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3887696/file)
+### [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3902660/file)
 
 ### [Mod Menu](https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.5/modmenu-4.0.5.jar)
 
