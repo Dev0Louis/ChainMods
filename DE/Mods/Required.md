@@ -2,7 +2,7 @@
 Hier werden die Mods für ChainSMP aufgelistet!</br>
 Legt diese in euren mods Ordner.</br>
 
-### [Fabric API](https://cdn.modrinth.com/data/P7dR8mSH/versions/0.56.3+1.19/fabric-api-0.56.3%2B1.19.jar)
+### [Fabric API](https://cdn.modrinth.com/data/P7dR8mSH/versions/0.58.0+1.19/fabric-api-0.58.0%2B1.19.jar)
 
 ### [Mod Menu](https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.0/modmenu-4.0.0.jar)
 
