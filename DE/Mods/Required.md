@@ -8,7 +8,7 @@ Legt diese in euren mods Ordner.</br>
 
 ### [Cloth Config](https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.73+fabric/cloth-config-7.0.73-fabric.jar)
 
-### [Simple Voice Chat](https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.19-2.2.46/voicechat-fabric-1.19-2.2.46.jar)
+### [Simple Voice Chat](https://cdn.modrinth.com/data/9eGKb6K1/versions/BwOgEOYb/voicechat-fabric-1.19-2.3.9.jar)
 </br>
 
 **[Optionale Mods](./Optional.md)**
